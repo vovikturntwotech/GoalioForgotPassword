@@ -16,8 +16,10 @@
         }
     ],
     "require": {
-        "goalio/goalio-mailservice": "1.0.1",
         "zf-commons/zfc-user": "1.*"
+    },
+    "require-dev": {
+        "goalio/goalio-mailservice": "dev-master#7cc9e42f"
     },
     "autoload": {
         "psr-0": {
